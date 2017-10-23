@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "안드로이드 네이티브 프로파일링"
+title:  "안드로이드 네이티브 프로파일링 (Korean)"
 date:   2017-10-18 18:20:50 +0900
 categories: Android profiling native simpleperf
 ---
