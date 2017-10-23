@@ -1,1 +1,13 @@
-theme: jekyll-theme-minimal
+
+# Site settings
+title: ipknHama's writings.
+email: ipknhama@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+    Some description.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://ipkn.github.io" # the base hostname & protocol for your site
+twitter_username: ipkn
+github_username:  ipkn
+
+# Build settings
+markdown: kramdown
